@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is David Martinez and I am currently studying CRUD.
+
 <!--
 **RoyalDoofus/RoyalDoofus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
